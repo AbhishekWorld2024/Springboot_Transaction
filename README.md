@@ -1,1 +1,2 @@
 # Springboot_Transaction
+<p>The @Transactional annotation is the metadata used for managing transactions in the Spring Boot application. To configure Spring Transaction, this annotation can be applied at the class level or method level. In an enterprise application, a transaction is a sequence of actions performed by the application that together are pipelined to perform a single operation. For example, booking a flight ticket is also a transaction where the end user has to enter his information and then make a payment to book the ticket.</p>
